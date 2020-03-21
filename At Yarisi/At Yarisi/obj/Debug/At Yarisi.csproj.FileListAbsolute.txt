@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\At Yarisi\At Yarisi\bin\Debug\At Yarisi.exe.config
+C:\Users\ASUS\source\repos\At Yarisi\At Yarisi\bin\Debug\At Yarisi.exe
+C:\Users\ASUS\source\repos\At Yarisi\At Yarisi\bin\Debug\At Yarisi.pdb
+C:\Users\ASUS\source\repos\At Yarisi\At Yarisi\obj\Debug\At Yarisi.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\At Yarisi\At Yarisi\obj\Debug\At_Yarisi.Form1.resources
+C:\Users\ASUS\source\repos\At Yarisi\At Yarisi\obj\Debug\At_Yarisi.Properties.Resources.resources
+C:\Users\ASUS\source\repos\At Yarisi\At Yarisi\obj\Debug\At Yarisi.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\At Yarisi\At Yarisi\obj\Debug\At Yarisi.exe
+C:\Users\ASUS\source\repos\At Yarisi\At Yarisi\obj\Debug\At Yarisi.pdb
